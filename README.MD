@@ -22,8 +22,6 @@ The web interface was based on the MERN tech stack and includes features such as
   * 1 Route 53 hosted zone (routes for frontend and backend EC2 instances)
 
 ## Demo:
-* <a href="https://github.com/MattHua04/AI_Chatbot_Frontend">Frontend Repo</a>
-* <a href="https://github.com/MattHua04/AI_Chatbot_Backend">Backend Repo</a>
 * ~~Username: DEMO~~
 * ~~Password: DEMO~~
 * ~~Demo users can't edit their profile for obvious reasons, but you can still test out the conversation features~~
